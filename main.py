@@ -41,4 +41,4 @@ check_mark.grid(column=1, row=3)
 
 window.mainloop()
 
-# TODO video 256
+# TODO video 256 1
